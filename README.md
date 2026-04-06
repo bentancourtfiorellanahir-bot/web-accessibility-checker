@@ -1,7 +1,26 @@
+<div align="center">
+
 # 🌐 Web Accessibility Checker
 
-A Python-based tool that analyzes web pages and detects common accessibility issues to promote more inclusive digital experiences.
+![Python](https://img.shields.io/badge/Python-3.9+-blue)
+![Status](https://img.shields.io/badge/status-active-success)
+![Accessibility](https://img.shields.io/badge/focus-accessibility-purple)
+![Reports](https://img.shields.io/badge/output-TXT%20%7C%20CSV%20%7C%20JSON-orange)
 
+**A Python-based web accessibility auditing tool that analyzes web pages, detects common accessibility issues, and generates structured reports.**  
+**Una herramienta de auditoría de accesibilidad web desarrollada en Python que analiza páginas, detecta problemas comunes de accesibilidad y genera reportes estructurados.**
+
+</div>
+
+---
+
+## 📸 Demo
+
+<p align="center">
+  <img src="screenshot.png" alt="Web Accessibility Checker demo output" width="850"/>
+</p>
+
+---
 ---
 
 ## English Version
