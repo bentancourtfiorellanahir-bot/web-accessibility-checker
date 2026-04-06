@@ -3,7 +3,7 @@
 # 🌐 Web Accessibility Checker
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
-![Status](https://img.shields.io/badge/status-active-success)
+![Status](https://img.shields.io/badge/status-production--ready-success)
 ![Accessibility](https://img.shields.io/badge/focus-accessibility-purple)
 ![Reports](https://img.shields.io/badge/output-TXT%20%7C%20CSV%20%7C%20JSON-orange)
 
@@ -125,7 +125,29 @@ This project was created to:
 * Integrate NLP for content simplification
 
 ---
+## ✨ Key Highlights
 
+- Real-world accessibility auditing tool
+- Rule-based validation inspired by WCAG principles
+- Multi-format reporting (TXT, CSV, JSON)
+- Modular and scalable Python architecture
+- Designed with accessibility and inclusion in mind
+
+---
+## 🧪 Example Use Case
+
+This tool can be used by developers, designers, or QA teams to quickly evaluate the accessibility of a webpage and identify common issues that may impact users with disabilities.
+
+It is especially useful in educational, content-driven, or accessibility-focused environments.
+
+---
+## ⚠️ Limitations
+
+- This tool analyzes static HTML and does not execute JavaScript
+- It provides heuristic checks and does not fully implement WCAG standards
+- Some accessibility issues may require manual evaluation
+
+---
 ## Versión en Español
 
 ### 📌 Descripción
@@ -191,6 +213,7 @@ Este proyecto fue creado para:
 
 ---
 
-### 💡 Author
+### 👩‍💻 Author
 
-Developed by Fiorella Bentancourt
+Fiorella Bentancourt  
+[GitHub Profile](https://github.com/bentancourtfiorellanahir-bot)
